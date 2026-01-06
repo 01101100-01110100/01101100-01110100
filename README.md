@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @01101100-01110100
 - 👀 I’m interested in all things computer science
-- 🌱 I’m currently learning Python, Java, C#, and Swift 
+- 🌱 I’m currently learning Java 
 - 💞️ I’m not looking to collaborate on anything just yet 
 - 📫 How to reach me (N/A)
 - 😄 Pronouns: She/Her
